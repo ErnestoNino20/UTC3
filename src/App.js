@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Web del nino
+          app de nino
         </a>
       </header>
     </div>
