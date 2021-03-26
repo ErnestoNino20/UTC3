@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          T
+          Ernesto Niño Perez
         </a>
       </header>
     </div>
