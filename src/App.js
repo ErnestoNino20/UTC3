@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Niño
+          T
         </a>
       </header>
     </div>
