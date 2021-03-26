@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          app de nino
+          Niño
         </a>
       </header>
     </div>
