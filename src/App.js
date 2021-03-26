@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Ernesto Niño Perez
+          Prefesor es buen pedo
         </a>
       </header>
     </div>
