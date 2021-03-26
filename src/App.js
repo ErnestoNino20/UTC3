@@ -17,6 +17,7 @@ function App() {
         >
           Ernesto Niño Perez
           Prefesor es buen pedo
+          R
         </a>
       </header>
     </div>
