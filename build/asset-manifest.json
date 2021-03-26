@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ErnestoNino20/UTC3/static/css/main.cafd1c98.chunk.css",
+    "main.js": "/ErnestoNino20/UTC3/static/js/main.7e528868.chunk.js",
+    "main.js.map": "/ErnestoNino20/UTC3/static/js/main.7e528868.chunk.js.map",
+    "runtime-main.js": "/ErnestoNino20/UTC3/static/js/runtime-main.f33595b7.js",
+    "runtime-main.js.map": "/ErnestoNino20/UTC3/static/js/runtime-main.f33595b7.js.map",
+    "static/js/2.f225da75.chunk.js": "/ErnestoNino20/UTC3/static/js/2.f225da75.chunk.js",
+    "static/js/2.f225da75.chunk.js.map": "/ErnestoNino20/UTC3/static/js/2.f225da75.chunk.js.map",
+    "static/js/3.4272bf86.chunk.js": "/ErnestoNino20/UTC3/static/js/3.4272bf86.chunk.js",
+    "static/js/3.4272bf86.chunk.js.map": "/ErnestoNino20/UTC3/static/js/3.4272bf86.chunk.js.map",
+    "index.html": "/ErnestoNino20/UTC3/index.html",
+    "static/css/main.cafd1c98.chunk.css.map": "/ErnestoNino20/UTC3/static/css/main.cafd1c98.chunk.css.map",
+    "static/js/2.f225da75.chunk.js.LICENSE.txt": "/ErnestoNino20/UTC3/static/js/2.f225da75.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ErnestoNino20/UTC3/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f33595b7.js",
+    "static/js/2.f225da75.chunk.js",
+    "static/css/main.cafd1c98.chunk.css",
+    "static/js/main.7e528868.chunk.js"
+  ]
+}
